@@ -1,0 +1,249 @@
+.contianer{
+    position: relative;
+    display: inline-block;
+}
+.sidebox{
+    background-color: rgb(67, 67, 210);
+    width: 200px;
+    height: 950px;
+    float: left;
+    color: rgb(227, 237, 245);
+    
+
+}
+.co{
+    font-size: 20px;
+    margin-left: 1em;
+    
+}
+.sidebox h2{
+    text-align: center;
+    
+}
+
+
+
+
+.sidebox hr{
+    width: 150px;
+    border: 0.5px solid rgba(250, 250, 250, 0.185);
+  
+   
+    
+}
+.hside{
+    position: absolute;
+    border-radius: 35px;
+    width: 33px;
+    height: 35px;
+    float: left;
+    border: 1px solid rgb(138, 127, 127);
+    left: 15px;
+    top: 15px;
+    background-color: #ffffff81;
+    position: absolute;
+    
+}
+.h2{
+    position: absolute;
+}
+.sbar {
+    position: relative;
+    border-radius: 25px;
+    width: 25px;
+    height: 25px;
+    float: left;
+    border: 1px solid rgb(138, 127, 127);
+    margin-right: 10px;
+    margin-left: 5px;
+    margin-top: 10px;
+    background-color: #ffffff81;
+}
+.sidebox p {
+    text-align: left;
+    margin-top: 25px;
+    align-items: center;
+}
+.out{
+    font-size: 12px;
+    color: black;
+    margin-left: 1em;
+}
+.hhead{
+    background-color: rgb(255, 255, 255);
+    box-shadow: 1px 1px 10px 1px rgba(110, 110, 110, 0.329);
+    height: 70px;
+}
+.search {
+    float: left;
+    width: 350px;
+    height: 40px;
+    border-radius: 5px 0 0 5px;
+    margin-top: 15px;
+    margin-left: 30px;
+    padding-left: 15px;
+    color: rgba(0, 0, 0, 0.493);
+    background-color: rgba(211, 211, 211, 0.212);
+}
+.ser {
+    float: left;
+    height: 40px;
+    width: 50px;
+    background-color: #4e73df;
+    margin-top: 15px;
+    border-radius: 0 5px 5px 0;
+}
+.noti1 {
+    float: right;
+    border-radius: 35px;
+    width: 35px;
+    height: 35px;
+    margin-top: 15px;
+    margin-right: 5px;
+    border: 1px solid black;
+}
+.text {
+    float: right;
+    margin-top: 7px;
+    margin-right: 5px;
+}
+.line {
+    float: right;
+    margin-top: 9px;
+    margin-right: 25px;
+    height: 50px;
+    border: 1px solid rgba(0, 0, 0, 0.26);
+}
+.block1 {
+    margin: auto;
+    float: left;
+    width: 280px;
+    height: 100px;
+    margin-left: 15px;
+    border-radius: 5px;
+    box-shadow: 1px 1px 10px 1px rgba(110, 110, 110, 0.329);
+    border-left: 4px solid rgba(13, 13, 255, 0.664);
+}
+.block1 p{
+    color:rgba(13, 13, 255, 0.664);
+}
+.block2 {
+    float: left;
+    width: 280px;
+    height: 100px;
+    margin-left: 15px;
+    border-radius: 5px;
+    box-shadow: 1px 1px 10px 1px rgba(110, 110, 110, 0.329);
+    border-left: 4px solid #1ad533;
+}
+.block2 p{
+    color: #1ad533;;
+}
+.block3 {
+    float: left;
+    width: 280px;
+    height: 100px;
+    margin-left: 15px;
+    border-radius: 5px;
+    box-shadow: 1px 1px 10px 1px rgba(110, 110, 110, 0.329);
+    border-left: 4px solid #1ae0cf;
+}
+.block3 p{
+    color: #1ae0cf;
+
+}
+.block4 {
+    float: left;
+    width: 280px;
+    height: 100px;
+    margin-left: 15px;
+    border-radius: 5px;
+    box-shadow: 1px 1px 10px 1px rgba(110, 110, 110, 0.329);
+    border-left: 4px solid #b6db23;
+}
+.block4 p{
+    color: #b6db23;
+}
+
+.re p{
+    background-color: #4e73df;
+    width: 100px;
+    height: 25px;
+    text-align: center;
+    color: #ffffff;
+    font-size: 13px;
+    padding-top: 5px;
+    margin-top: 1px;
+    
+}
+.graph {
+    position: relative;
+    float: left;
+    width: 730px;
+    height: 500px;
+    margin-left: 15px;
+    margin-top: 25px;
+    border-radius: 5px;
+    box-shadow: 1px 1px 10px 1px rgba(110, 110, 110, 0.329);
+}
+.graphh {
+    position: relative;
+    float: right;
+    width: 500px;
+    height: 500px;
+    margin-right: 15px;
+    margin-top: 25px;
+    border-radius: 5px;
+    box-shadow: 1px 1px 10px 1px rgba(110, 110, 110, 0.329);
+}
+.graphh h4{
+    padding-left: 1rem;
+}
+.sq {
+    position: relative;
+    background-color: #356b73;
+    width: 300px;
+    height: 300px;
+    border-radius: 300px;
+    top: 50px;
+    left: 100px;
+}
+.sq1 {
+    position: relative;
+    background-color: #ffffff;
+    width: 250px;
+    height: 250px;
+    border-radius: 250px;
+    top: 25px;
+    left: 25px;
+}
+.dol {
+    position: relative;
+    left: 15px;
+    line-height: 4rem;
+
+}
+.graph h4{
+    padding-left: 1rem;
+
+}
+.block1,.block2,.block3,.block4 p{
+    padding-left: 2rem;
+}
+.block4 h3{
+    padding-left: 2rem;
+}
+.block1,.block2,.block3,.block4 {
+   margin-bottom: 2rem;
+}
+.towu{
+    margin-bottom: 2rem;
+    display: inline;
+}
+.hh h1 {
+    margin-left: 230px;
+}
+.re p{
+    margin-right: 20px;
+    float: right;
+}
